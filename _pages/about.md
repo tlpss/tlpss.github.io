@@ -5,7 +5,7 @@ permalink: /
 subtitle: Phd Student in Robotic Manipulation
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpeg
 
 
 news: true  # includes a list of news items
