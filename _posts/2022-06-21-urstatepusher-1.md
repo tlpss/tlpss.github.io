@@ -6,7 +6,7 @@ description: In this series I document how I taught our UR3e robot to push objec
 tags: robotics deepRL UR3e
 categories: [robot learning]
 comments: true
-hide: false
+hide: true
 
 img: assets/img/blog/ur-state-pusher/robot-primitive.gif
 ---
