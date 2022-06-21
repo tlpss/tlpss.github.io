@@ -34,6 +34,7 @@ pagination:
     {% assign categories = post.categories | join: "" %}
 
     <li>
+      {%- if post.hide == false-%}
       {%- if post.img -%}
       <div class="row">
         
@@ -112,6 +113,7 @@ pagination:
               {% endfor %}
           {% endif %}
       </p>
+    {% endif %}
     {% endif %}
     </li>
 
