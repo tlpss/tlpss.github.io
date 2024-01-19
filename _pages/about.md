@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the [AI and Robotics Lab](https://airo.ugent.be/) at [Ghent University](https://www.ugent.be/en) :belgium:. My research focuses on robotic manipulation, aiming to develop robotic systems capable of dealing with the diversity of the real world, enabling them to assist humans in their daily lives.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Some topics that I have worked on include synthetic data generation and sim-to-real, keypoint detection and the manipulation of challenging objects like clothes and cabinets. I also have a strong passion for (robotic) software engineering, which is a cornerstone of any intelligent robot in my opinion.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before embarking on my Ph.D. journey, I earned my bachelor's and master's degrees in Computer Science Engineering from Ghent University. During my masters I also studied at [EPFL](https://www.epfl.ch/en/), where I completely fell in love with Lausanne.
+
+Feel free to reach out, I am always eager to learn or to collaborate!
