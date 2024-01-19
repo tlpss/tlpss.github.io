@@ -59,7 +59,7 @@ And last but certainly not least, there is the **sample-efficiency**. Even state
 
 
 ### Gym Interface
-The dominant way of implementing the resulting MDP and providing the learning algorithm with an interface to the environment is through a [Gym interface](https://www.gymlibrary.ml/). 
+The dominant way of implementing the resulting MDP and providing the learning algorithm with an interface to the environment is through a [Gym(nasium) interface](https://gymnasium.farama.org/). 
 
 Interacting with a Gym environment follows the standard agent-environment interaction scheme and goes as follows:
 
