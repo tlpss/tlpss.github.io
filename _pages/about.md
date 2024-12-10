@@ -19,10 +19,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the [AI and Robotics Lab](https://airo.ugent.be/) at [Ghent University](https://www.ugent.be/en) :belgium:. My research focuses on robotic manipulation, aiming to develop robotic systems capable of dealing with the diversity of the real world, enabling them to assist humans in their daily lives.
+I am a PhD student in the [AI and Robotics Lab](https://airo.ugent.be/) at [Ghent University](https://www.ugent.be/en) :belgium:. My research focuses on robotic manipulation. I aim to develop robotic systems capable of dealing with the diversity of the real world, enabling these robots to assist humans in their daily lives.
 
-Some topics that I have worked on include synthetic data generation and sim-to-real, keypoint detection and the manipulation of challenging objects like clothes and cabinets. I also have a strong passion for (robotic) software engineering, which is a cornerstone of any intelligent robot in my opinion.
+Some topics that I have worked on include synthetic data generation, keypoint detection and the manipulation of challenging objects like clothes and articulated objects. I also have a strong passion for (robotic) software engineering, which is a cornerstone of any intelligent robot in my opinion.
 
-Before embarking on my Ph.D. journey, I earned my bachelor's and master's degrees in Computer Science Engineering from Ghent University. During my masters I also studied at [EPFL](https://www.epfl.ch/en/), where I completely fell in love with Lausanne.
+Before embarking on my PhD journey, I earned my bachelor's and master's degrees in Computer Science Engineering from Ghent University. During my masters I also studied at [EPFL](https://www.epfl.ch/en/), where I completely fell in love with Lausanne.
 
 Feel free to reach out, I am always eager to learn or to collaborate!
