@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Contact-GraspNet 
+title: Contact-GraspNet
 description: Dockerized Contact-GraspNet for ease of use.
 img: assets/img/projects/thumbnail_dockerized-contact-graspnet.png
 importance: 1
 category: work
 ---
 
-To quickly generate grasp proposals in research projects while avoiding a dependency hell, I have dockerized the amazing [Contact-GraspNet](https://github.com/NVlabs/contact_graspnet) network. 
+To quickly generate grasp proposals in research projects while avoiding a dependency hell, I have dockerized the amazing [Contact-GraspNet](https://github.com/NVlabs/contact_graspnet) network.
 
 You can find the repo [here](https://github.com/tlpss/contact_graspnet) and a prebuilt docker container [here](https://hub.docker.com/r/tlpss/contact-graspnet-flask).
 

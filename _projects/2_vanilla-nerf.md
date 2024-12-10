@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NeRF 
+title: NeRF
 description: Vanilla NeRF implementation created during a lab hackathon
 img: assets/img/projects/thumbnail_nerf.png
 importance: 1
@@ -12,4 +12,3 @@ Neural Radiance Fields have created a small revolution since their appearance in
 
 
 The code and some more details on the process are available on [github](https://github.com/tlpss/minimal-nerf).
-
